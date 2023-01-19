@@ -6,11 +6,11 @@ int b = Convert.ToInt32(Console.ReadLine());
 int max = 0;
 if (a > b)
 {
-    max = a;
+max = a;
 }
 else 
 {
-    max = b;
+max = b;
 }
 Console.Write("max = ");
 Console.Write(max);
