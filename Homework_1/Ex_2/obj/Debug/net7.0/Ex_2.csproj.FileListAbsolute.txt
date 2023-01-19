@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\bin\Debug\net7.0\Ex_2.exe
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\bin\Debug\net7.0\Ex_2.deps.json
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\bin\Debug\net7.0\Ex_2.runtimeconfig.json
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\bin\Debug\net7.0\Ex_2.dll
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\bin\Debug\net7.0\Ex_2.pdb
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.dll
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\refint\Ex_2.dll
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.pdb
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\Ex_2.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Homework_C#\Homework_1\Ex_2\obj\Debug\net7.0\ref\Ex_2.dll
