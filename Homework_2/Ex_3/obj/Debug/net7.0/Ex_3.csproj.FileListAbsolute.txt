@@ -1,0 +1,15 @@
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.csproj.AssemblyReference.cache
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.AssemblyInfoInputs.cache
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.AssemblyInfo.cs
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.csproj.CoreCompileInputs.cache
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\bin\Debug\net7.0\Ex_3.exe
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\bin\Debug\net7.0\Ex_3.deps.json
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\bin\Debug\net7.0\Ex_3.runtimeconfig.json
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\bin\Debug\net7.0\Ex_3.dll
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\bin\Debug\net7.0\Ex_3.pdb
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.dll
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\refint\Ex_3.dll
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.pdb
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\Ex_3.genruntimeconfig.cache
+C:\Users\Sefensi\Desktop\Homework_Ereklitsev_Alexey\Homework_2\Ex_3\obj\Debug\net7.0\ref\Ex_3.dll
