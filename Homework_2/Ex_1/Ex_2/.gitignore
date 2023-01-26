@@ -1,0 +1,7 @@
+# VS Code files for those working on multiple tools 
+.vscode 
+!.vscodesettings.json 
+!.vscodetasks.json 
+!.vscodelaunch.json 
+!.vscodeextensions.json 
+.code-workspace
